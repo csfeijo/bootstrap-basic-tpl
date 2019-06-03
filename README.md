@@ -1,6 +1,5 @@
 # Boostrap basic template
 
-
 This project containt a basic template and files to use bootstrap inside your project.
 
 You can use the SCSS pre processor to generate the CSS file in /css folder.
@@ -13,3 +12,5 @@ You can use the SCSS pre processor to generate the CSS file in /css folder.
 * [SASS](https://sass-lang.com/)
 
 Enjoy!
+
+Cheers, Feijo
